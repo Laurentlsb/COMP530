@@ -1,0 +1,3 @@
+/mnt/d/Rice/Study/Courses/2019 Spring/COMP530 DATABSE SYSTEM IMPLEMENTATION/Homework/Assignment_3/A3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Rice/Study/Courses/2019 Spring/COMP530 DATABSE SYSTEM IMPLEMENTATION/Homework/Assignment_3/A3/cmake-build-debug/CMakeFiles/A3.dir
+/mnt/d/Rice/Study/Courses/2019 Spring/COMP530 DATABSE SYSTEM IMPLEMENTATION/Homework/Assignment_3/A3/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,4 @@
+/opt/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G "CodeBlocks - Unix Makefiles" "/mnt/d/Rice/Study/Courses/2019 Spring/COMP530 DATABSE SYSTEM IMPLEMENTATION/Homework/Assignment_3/A3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Rice/Study/Courses/2019 Spring/COMP530 DATABSE SYSTEM IMPLEMENTATION/Homework/Assignment_3/A3/cmake-build-debug
