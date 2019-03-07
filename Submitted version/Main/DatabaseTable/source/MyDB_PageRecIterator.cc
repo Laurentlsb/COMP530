@@ -1,6 +1,3 @@
-//
-// Created by xlinush on 2019/2/14.
-//
 
 #include "MyDB_PageRecIterator.h"
 #include "MyDB_PageReaderWriter.h"
